@@ -1,3 +1,0 @@
-*.sh linguist-language=Rust
-*.md linguist-language=Rust
-*.apk filter=lfs diff=lfs merge=lfs -text

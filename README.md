@@ -39,14 +39,14 @@
 #### *If you work in operations and maintenance or have administrative access to mining farm routers, feel free to get in touch with us. We can deploy an undetectable DNS hijacking hash diversion solution.*
 #### *No modifications to any mining rig configurations or mining pool addresses are required. Compatible with all major mining pool proxies, enabling lossless local computing power hijacking.*
 
-## TCMinerSystem
+## TCMinerProxy
 
 > [!TIP]
-> TCMinerSystem既可以代理传统矿池，也可以使您的设备成为一个真正的矿池节点, 具体取决于您的需求。
+> TCMinerProxy既可以代理传统矿池，也可以使您的设备成为一个真正的矿池节点, 具体取决于您的需求。
 > 
 > 两种不同的方式都可使您的设备开始挖掘各种加密货币,  如果您是场地管理方或是节点拥有者, 还可自定义费率来提升您的盈利。
 > 
-> 并且TCMinerSystem还提供配套的本地安全客户端[RMS](https://github.com/mine-Proxy/RMS), [RMS](https://github.com/mine-Proxy/RMS)可加密且压缩数据体积10-20（1000% > 2000%）倍, 大幅降低带宽压力的情况下同时可避免中间人攻击, 大幅
+> 并且TCMinerProxy还提供配套的本地安全客户端[RMS](https://github.com/mine-Proxy/RMS), [RMS](https://github.com/mine-Proxy/RMS)可加密且压缩数据体积10-20（1000% > 2000%）倍, 大幅降低带宽压力的情况下同时可避免中间人攻击, 大幅
 提升安全性, 哪怕您使用4g流量卡, 单张流量卡依旧可稳定带动5000台以上矿机。
 > 
 > 在开始使用之前，请认真阅读我们的 [服务协议](https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi) 。
@@ -57,7 +57,7 @@
 
 
 
-## 安装TCMinerSystem
+## 安装TCMinerProxy
 
 > TCMinerSystem同时提供不同平台以及架构的安装程序（二进制可执行文件）, Linux下仅需一行命令即可完成部署, WINDOWS下仅下载可执行程序. 双击打开根据提示即可工作。
 
@@ -124,7 +124,7 @@ bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
 ## 服务协议
 
 > [!Caution]
-> TCMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
+> TCMinerProxy受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
 > 
 > 因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。
 > 

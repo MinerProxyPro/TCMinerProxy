@@ -15,8 +15,8 @@
     <a href="LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-22C55E" alt="License">
     </a>
-    <a href="https://t.me/tcminerproxy" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
+    <a href="https://t.me/tcminerproxy">
+       <img src="https://img.shields.io/badge/Telegram-tcminer-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
     </a>
     <a href="https://discord.gg/PCKrcNArBE">
        <img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white" alt="Discord">

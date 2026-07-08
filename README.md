@@ -24,8 +24,8 @@
     <a href="https://x.com/tcminerproxy">
        <img src="https://img.shields.io/badge/X-rustminersystem-000000?logo=x&logoColor=white" alt="X">
     </a>
-    <a href="https://github.com/mine-Proxy/TCMinerSystem">
-        <img src="https://img.shields.io/github/stars/mine-proxy/TCMinerSystem.svg" alt="GitHub stars">
+    <a href="https://github.com/MinerProxyPro/TCMinerProxy">
+       <img src="https://img.shields.io/github/stars/MinerProxyPro/TCMinerProxy?style=flat&color=F59E0B" alt="GitHub stars">
     </a>
     </a>
     <a href="https://discord.gg/PCKrcNArBE">

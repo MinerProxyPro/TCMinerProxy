@@ -181,7 +181,7 @@ bash <(curl -s -L -k http://cdn.tcminerproxy.com/MinerProxyPro/TCMinerProxy/raw/
        <img src="https://img.shields.io/badge/X-rustminersystem-000000?logo=x&logoColor=white" alt="X">
     </a>
     <a href="https://github.com/MinerProxyPro/TCMinerProxy/releases">
-       img src="https://img.shields.io/badge/Releases-Changelog-111827" alt="Releases">
+       <img src="https://img.shields.io/badge/Releases-Changelog-111827" alt="Releases">
     </a>
 </p>
 

@@ -5,12 +5,12 @@
 </h4>
 
 <h4 align="center">MinerProxy MinerProxy MinerProxy</h4>
-<h4 align="center">完备的虚拟货币挖矿全链路解决方案。</h4>
+<h4 align="center">面向矿机、矿场与矿池节点的虚拟货币挖矿全链路解决方案。</h4>
 <h4 align="center">矿池中转 中转服务器 比特币挖矿 加密隧道 矿池代理 </h4>
 
 <p align="center">
     <a href="https://github.com/mine-Proxy/TCMinerSystem/releases">
-        <img src="https://img.shields.io/github/v/tag/mine-Proxy/TCMinerSystem?label=version&color" alt="version">
+        <img src="https://img.shields.io/github/v/tag/MinerProxyPro/TCMinerProxy?label=version&color" alt="version">
     </a>
     <a href="LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-22C55E" alt="License">

@@ -8,7 +8,7 @@
 <h4 align="center">面向矿机、矿场与矿池节点的虚拟货币挖矿全链路解决方案。</h4>
 <h4 align="center">矿池中转 中转服务器 比特币挖矿 加密隧道 矿池代理 </h4>
 
-<p align="center">
+<p>
     <a href="https://github.com/MinerProxyPro/TCMinerProxy/releases">
         <img src="https://img.shields.io/github/v/tag/MinerProxyPro/TCMinerProxy?label=version&color" alt="version">
     </a>
@@ -33,7 +33,7 @@
     </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi">矿池代理(抽水)</a> •
   <a href="https://tcminersystem.gitbook.io/tcminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian">自建矿池</a> •
   <a href="https://github.com/mine-Proxy/RMS">加密压缩</a> •

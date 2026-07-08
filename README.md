@@ -9,7 +9,7 @@
 <h4 align="center">矿池中转 中转服务器 比特币挖矿 加密隧道 矿池代理 </h4>
 
 <p align="center">
-    <a href="https://github.com/mine-Proxy/TCMinerSystem/releases">
+    <a href="https://github.com/MinerProxyPro/TCMinerProxy/releases">
         <img src="https://img.shields.io/github/v/tag/MinerProxyPro/TCMinerProxy?label=version&color" alt="version">
     </a>
     <a href="LICENSE">

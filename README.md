@@ -44,6 +44,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/mine-Proxy/TCMinerSystem/main/image/review.gif)
 
+</div>
 
 ## TCMinerProxy 是什么
 

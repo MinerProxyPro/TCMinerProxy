@@ -89,7 +89,7 @@ bash <(curl -s -L https://github.com/MinerProxyPro/TCMinerProxy/raw/main/install
 如果所在地区访问 GitHub 较慢，可尝试备用安装地址：
 
 ```sh
-bash <(curl -s -L -k http://cdn.tcminerproxy.com/MinerProxyPro/TCMinerProxy/raw/main/install.sh)
+bash <(curl -s -L -k https://cdn.tcminerproxy.com/MinerProxyPro/TCMinerProxy/raw/main/install.sh)
 
 ```
 

@@ -12,8 +12,17 @@
     <a href="https://github.com/mine-Proxy/TCMinerSystem/releases">
         <img src="https://img.shields.io/github/v/tag/mine-Proxy/TCMinerSystem?label=version&color" alt="version">
     </a>
-    <a href="https://t.me/TcstMinerSystem" target="_blank">
+    <a href="LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-22C55E" alt="License">
+    </a>
+    <a href="https://t.me/tcminerproxy" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://discord.gg/PCKrcNArBE">
+       <img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://x.com/tcminerproxy">
+       <img src="https://img.shields.io/badge/X-rustminersystem-000000?logo=x&logoColor=white" alt="X">
     </a>
     <a href="https://github.com/mine-Proxy/TCMinerSystem">
         <img src="https://img.shields.io/github/stars/mine-proxy/TCMinerSystem.svg" alt="GitHub stars">

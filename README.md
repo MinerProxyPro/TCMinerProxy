@@ -1,4 +1,6 @@
-# ![alt text](https://raw.githubusercontent.com/mine-Proxy/TCMinerSystem/refs/heads/main/image/_logo.svg)
+<div align="center">
+
+<img src="image/_logo.svg" alt="RustMinerSystem" width="520">
 <h4 align="center"><a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/tcMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык</a>
 </h4>
 

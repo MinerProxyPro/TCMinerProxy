@@ -180,7 +180,7 @@ bash <(curl -s -L -k https://cdn.tcminerproxy.com/MinerProxyPro/TCMinerProxy/raw
        <img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white" alt="Discord">
     </a>
     <a href="https://x.com/tcminerproxy">
-       <img src="https://img.shields.io/badge/X-rustminersystem-000000?logo=x&logoColor=white" alt="X">
+       <img src="https://img.shields.io/badge/X-tcminerproxy-000000?logo=x&logoColor=white" alt="X">
     </a>
     <a href="https://github.com/MinerProxyPro/TCMinerProxy/releases">
        <img src="https://img.shields.io/badge/Releases-Changelog-111827" alt="Releases">

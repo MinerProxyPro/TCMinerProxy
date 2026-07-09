@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="image/_logo.svg" alt="RustMinerSystem" width="520">
+<img src="image/_logo.svg" alt="TCMinerProxy" width="520">
 <h4 align="center">language：<a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/tcMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык</a>
 </h4>
 

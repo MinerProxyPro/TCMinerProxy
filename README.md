@@ -112,12 +112,12 @@ bash <(curl -s -L -k https://cdn.tcminerproxy.com/MinerProxyPro/TCMinerProxy/raw
 
 | 场景 | 入口 |
 | --- | --- |
-| 接入传统矿池 | [传统矿池代理教程](https://rustminersystem.gitbook.io/rustminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) |
-| 搭建矿池节点 | [自建矿池节点教程](https://rustminersystem.gitbook.io/rustminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian) |
-| 使用 RMS 客户端 | [RMS 本地安全客户端](https://github.com/EvilGenius-dot/RMS) |
-| 查看完整文档 | [RustMinerSystem GitBook](https://rustminersystem.gitbook.io/rustminersystem) |
-| 联系与定制 | [联系我们](https://rustminersystem.gitbook.io/rustminersystem/guan-yu/lian-xi-wo-men) |
-| 服务协议 | [服务协议](https://rustminersystem.gitbook.io/rustminersystem/guan-yu/fu-wu-xie-yi) |
+| 接入传统矿池 | [传统矿池代理教程](https://tcminersystem.gitbook.io/tcminerproxy/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) |
+| 搭建矿池节点 | [自建矿池节点教程](https://tcminersystem.gitbook.io/tcminerproxy/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian) |
+| 使用 RMS 客户端 | [TMS 本地安全客户端](https://github.com/MinerProxyPro/TMS) |
+| 查看完整文档 | [TCMinerProxy GitBook](https://rustminersystem.gitbook.io/rustminersystem) |
+| 联系与定制 | [联系我们](https://tcminersystem.gitbook.io/tcminerproxy/guan-yu/lian-xi-wo-men) |
+| 服务协议 | [服务协议](https://tcminersystem.gitbook.io/tcminerproxy/guan-yu/fu-wu-xie-yi) |
 
 ## 支持算法与币种
 

@@ -48,7 +48,7 @@
 
 ## TCMinerProxy 是什么
 
-TCMinerProxy 可以用于代理传统矿池，也可以让您的设备成为真正的矿池节点。它面向矿机、矿场、矿池节点和多线路运维场景，帮助用户完成接入、转发、管理、费率配置和状态观察。
+TCMinerProxy 可以用于代理传统矿池，矿池中转，也可以让您的设备成为真正的矿池节点。它面向矿机、矿场、矿池节点和多线路运维场景，帮助用户完成接入、转发、管理、费率配置和状态观察。
 
 配套的本地安全客户端 [TMS](https://github.com/MinerProxyPro/TMS) 可用于加密与压缩传输数据，在降低带宽压力的同时增强链路安全性。开始使用前，请先阅读 [服务协议](https://tcminerproxy.gitbook.io/tcminerproxy/guan-yu/fu-wu-xie-yi)。
 

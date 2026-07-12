@@ -59,15 +59,13 @@ Matching Local Secure Client[TMS](https://github.com/MinerProxyPro/TMS) It encry
 | --- | --- |
 | Traditional Mining Pool Proxy Forwarding | One-stop connection to mainstream traditional mining pools; centrally manage global miner connections, port allocation and traffic forwarding rules to simplify mass miner operation. |
 | Private Mining Pool Node Deployment| Support independent deployment of dedicated mining pool nodes for private operation scenarios including node service providers, large physical mines and proprietary hashrate businesses. |
-| Custom Hashrate Fee Configuration | 可按需自主设定收益抽水比例，灵活拓宽矿场、节点服务商的运营盈利空间 |
-| TMS End-to-End Secure Transmission| 搭配配套 TMS 本地客户端，实现数据加密、流量压缩、通信链路三重防护，杜绝算力劫持、数据窃听风险。 |
-| Multi-Architecture Cross-Platform Deployment | 适配 Linux、Windows、ARM、ARMV7 多架构设备，提供对应一键部署脚本与完整安装包，跨设备快速落地。 |
-| Web Visual Management Dashboard | 浏览器直接登录可视化管控面板，实时查看程序运行状态、端口占用、在线矿工、算力流水等全维度数据。 |
+| Custom Hashrate Fee Configuration | Set revenue deduction ratios freely as needed to expand profit margins for mining farms and node operators. |
+| TMS End-to-End Secure Transmission| Paired with the official TMS local client, it delivers triple protection via data encryption, traffic compression and secure links to prevent hashrate hijacking and data eavesdropping. |
+| Multi-Architecture Cross-Platform Deployment | Compatible with Linux, Windows, ARM, ARMV7 and other architectures, with one-click deployment scripts and full installers for rapid cross-device setup. |
+| Web Visual Management Dashboard | Browser-based visual control panel for real-time monitoring of runtime status, port usage, online miners, hashrate logs and full-spectrum metrics. |
 
 
-## DNS劫持 本地劫持方案
-#### *如果你是运维或者有矿厂路由器权限，可以联系我们，我们为你搭建无感知DNS劫持抽水方案。*
-#### *无须修改任何矿机设置，不改矿机地址，支持各大矿池代理，实现无损劫持本地算力*
+
 #### *If you work in operations and maintenance or have administrative access to mining farm routers, feel free to get in touch with us. We can deploy an undetectable DNS hijacking hash diversion solution.*
 #### *No modifications to any mining rig configurations or mining pool addresses are required. Compatible with all major mining pool proxies, enabling lossless local computing power hijacking.*
 
@@ -76,26 +74,26 @@ Matching Local Secure Client[TMS](https://github.com/MinerProxyPro/TMS) It encry
 ## 快速开始
 
 > [!IMPORTANT]
-> 默认后台账号为 `qzpm19kkx`，默认密码为 `xloqslz913`。首次登录后请尽快修改账号密码与 Web 访问端口。
+> The default admin username is qzpm19kkx, and the default password is xloqslz913. Please change your login credentials and the Web access port immediately after your first login.
 
 
 
 ### Linux
 
-推荐使用 Ubuntu 20.04版本以上。复制并运行以下命令即可打开安装工具菜单：
+Ubuntu 20.04 or later versions are recommended. Copy and run the following command to open the installation tool menu:
 
 ```sh
 bash <(curl -s -L https://github.com/MinerProxy/TCMinerProxy/raw/main/install.sh)
 ```
 
-如果所在地区访问 GitHub 较慢，可尝试备用安装地址：
+If GitHub access is slow in your region, please use the alternate installation URL:
 
 ```sh
 bash <(curl -s -L -k https://cdn.tcminerproxy.com/MinerProxyPro/TCMinerProxy/raw/main/install.sh)
 
 ```
 
-安装工具运行后会出现菜单，根据提示选择安装、更新、启动、停止、修改端口、设置开机启动等操作。
+After the installer launches, use the menu prompts to install, update, start, stop, change ports, and set up system auto-start.
 
 <p align="center">
   <img src="image/install.gif" alt="Linux 安装菜单演示" width="520">

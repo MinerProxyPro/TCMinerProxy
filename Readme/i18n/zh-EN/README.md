@@ -33,6 +33,7 @@
     </a>
 </p>
 
+"""
 <p>
   <a href="https://www.tcminerproxy.com">official site</a> •
   <a href="https://tcminerproxy.gitbook.io/tcminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian">自建矿池</a> •
@@ -41,6 +42,7 @@
   <a href="https://tcminerproxy.gitbook.io/tcminersystem/guan-yu/lian-xi-wo-men">免费定制</a> •
   <a href="https://tcminerproxy.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi">服务协议</a>
 </p>
+"""
 
 ![screenshot](https://raw.githubusercontent.com/MinerProxy/TCMinerProxy/main/image/review.gif)
 

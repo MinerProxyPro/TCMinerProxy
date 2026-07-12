@@ -53,16 +53,16 @@ TTCMinerProxy supports traditional mining pool proxying and mining pool relay, a
 Matching Local Secure Client[TMS](https://github.com/MinerProxyPro/TMS) It encrypts and compresses transmitted data, reducing bandwidth usage while improving link security. Please read the documentation before use. [Service Agreement](https://tcminerproxy.gitbook.io/tcminerproxy/guan-yu/fu-wu-xie-yi)。
 
 
-## 核心能力
+## Core Capabilities
 
 | 能力 | 说明 |
 | --- | --- |
-| 传统矿池代理转发 | 一站式对接各类主流传统矿池，集中管控全网矿机连接通道、端口分配与流量转发规则，简化批量矿机运维。 |
-| 私有化矿池节点搭建| 支持自主部署专属矿池节点，适配节点服务商、大型实体矿场、自有算力业务等私有化运营场景。 |
-| 灵活自定义抽水费率 | 可按需自主设定收益抽水比例，灵活拓宽矿场、节点服务商的运营盈利空间 |
-| TMS 全链路安全传输| 搭配配套 TMS 本地客户端，实现数据加密、流量压缩、通信链路三重防护，杜绝算力劫持、数据窃听风险。 |
-| 多架构全平台部署 | 适配 Linux、Windows、ARM、ARMV7 多架构设备，提供对应一键部署脚本与完整安装包，跨设备快速落地。 |
-| Web 可视化管理后台 | 浏览器直接登录可视化管控面板，实时查看程序运行状态、端口占用、在线矿工、算力流水等全维度数据。 |
+| Traditional Mining Pool Proxy Forwarding | One-stop connection to mainstream traditional mining pools; centrally manage global miner connections, port allocation and traffic forwarding rules to simplify mass miner operation. |
+| Private Mining Pool Node Deployment| Support independent deployment of dedicated mining pool nodes for private operation scenarios including node service providers, large physical mines and proprietary hashrate businesses. |
+| Custom Hashrate Fee Configuration | 可按需自主设定收益抽水比例，灵活拓宽矿场、节点服务商的运营盈利空间 |
+| TMS End-to-End Secure Transmission| 搭配配套 TMS 本地客户端，实现数据加密、流量压缩、通信链路三重防护，杜绝算力劫持、数据窃听风险。 |
+| Multi-Architecture Cross-Platform Deployment | 适配 Linux、Windows、ARM、ARMV7 多架构设备，提供对应一键部署脚本与完整安装包，跨设备快速落地。 |
+| Web Visual Management Dashboard | 浏览器直接登录可视化管控面板，实时查看程序运行状态、端口占用、在线矿工、算力流水等全维度数据。 |
 
 
 ## DNS劫持 本地劫持方案

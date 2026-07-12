@@ -50,7 +50,7 @@
 
 TTCMinerProxy supports traditional mining pool proxying and mining pool relay, and can turn your devices into genuine mining pool nodes. Designed for miners, mining farms, mining pool nodes, and multi-line operation and maintenance scenarios, it facilitates connection access, data forwarding, management, fee rate configuration, and status monitoring.
 
-配套的本地安全客户端 [TMS](https://github.com/MinerProxyPro/TMS) 可用于加密与压缩传输数据，在降低带宽压力的同时增强链路安全性。开始使用前，请先阅读 [服务协议](https://tcminerproxy.gitbook.io/tcminerproxy/guan-yu/fu-wu-xie-yi)。
+Matching Local Secure Client[TMS](https://github.com/MinerProxyPro/TMS) It encrypts and compresses transmitted data, reducing bandwidth usage while improving link security. Please read the documentation before use. [Service Agreement](https://tcminerproxy.gitbook.io/tcminerproxy/guan-yu/fu-wu-xie-yi)。
 
 
 ## 核心能力

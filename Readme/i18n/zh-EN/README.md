@@ -55,14 +55,14 @@ Matching Local Secure Client[TMS](https://github.com/MinerProxyPro/TMS) It encry
 
 ## Core Capabilities
 
-| 能力 | 说明 |
+| Feature | Description |
 | --- | --- |
-| Traditional Mining Pool Proxy Forwarding | One-stop connection to mainstream traditional mining pools; centrally manage global miner connections, port allocation and traffic forwarding rules to simplify mass miner operation. |
-| Private Mining Pool Node Deployment| Support independent deployment of dedicated mining pool nodes for private operation scenarios including node service providers, large physical mines and proprietary hashrate businesses. |
-| Custom Hashrate Fee Configuration | Set revenue deduction ratios freely as needed to expand profit margins for mining farms and node operators. |
-| TMS End-to-End Secure Transmission| Paired with the official TMS local client, it delivers triple protection via data encryption, traffic compression and secure links to prevent hashrate hijacking and data eavesdropping. |
-| Multi-Architecture Cross-Platform Deployment | Compatible with Linux, Windows, ARM, ARMV7 and other architectures, with one-click deployment scripts and full installers for rapid cross-device setup. |
-| Web Visual Management Dashboard | Browser-based visual control panel for real-time monitoring of runtime status, port usage, online miners, hashrate logs and full-spectrum metrics. |
+| Traditional pool proxy | Connect miners to traditional mining pools and manage connections, ports, and forwarding policies in one place. |
+| Self-hosted pool node | Turn a device into a mining pool node for node operators, mining farms, and custom business scenarios. |
+| Custom fee rate | Configure fee rates according to your business needs to improve site or node operation revenue. |
+| Secure transmission | Use the RMS local client for encryption, compression, and link protection. |
+| Multi-platform deployment | Provides Linux, Windows, ARM, and ARMV7 installation packages or scripts. |
+| Web management console | Access the management console through a browser to view running status, ports, miners, and related data. |
 
 
 
@@ -71,7 +71,7 @@ Matching Local Secure Client[TMS](https://github.com/MinerProxyPro/TMS) It encry
 
 
 
-## 快速开始
+## Quick Start
 
 > [!IMPORTANT]
 > The default admin username is qzpm19kkx, and the default password is xloqslz913. Please change your login credentials and the Web access port immediately after your first login.
@@ -101,10 +101,10 @@ After the installer launches, use the menu prompts to install, update, start, st
 
 ### Windows
 
-1. 打开 [windows 目录](https://github.com/MinerProxyPro/TCMinerProxy/tree/main/windows)。
-2. 选择最新版本的 `tcminerproxy-*.exe`。
-3. 进入文件页面后点击 `View raw` 下载。
-4. 双击运行程序，根据终端提示使用浏览器进入管理后台。
+1. Open the [windows directory](https://github.com/MinerProxyPro/TCMinerProxy/tree/main/windows).
+2. Select the latest `tcminerproxy-*.exe` file.
+3. Open the file page and click `View raw` to download it.
+4. Double-click the program and follow the terminal prompt to open the management console in your browser.
 
 ## 文档导航
 
@@ -113,13 +113,13 @@ After the installer launches, use the menu prompts to install, update, start, st
 | 接入传统矿池 | [传统矿池代理教程](https://tcminersystem.gitbook.io/tcminerproxy/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) |
 | 搭建矿池节点 | [自建矿池节点教程](https://tcminersystem.gitbook.io/tcminerproxy/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian) |
 | 使用 RMS 客户端 | [TMS 本地安全客户端](https://github.com/MinerProxyPro/TMS) |
-| 查看完整文档 | [TCMinerProxy GitBook](https://rustminersystem.gitbook.io/rustminersystem) |
+| 查看完整文档 | [TCMinerProxy GitBook](https://tcminerproxy.gitbook.io/rustminersystem) |
 | 联系与定制 | [联系我们](https://tcminersystem.gitbook.io/tcminerproxy/guan-yu/lian-xi-wo-men) |
 | 服务协议 | [服务协议](https://tcminersystem.gitbook.io/tcminerproxy/guan-yu/fu-wu-xie-yi) |
 
-## 支持算法与币种
+## Supported Algorithms and Coins
 
-支持的算法与币种会随版本和配置热更新。以下为当前文档中的常见支持范围：
+Supported algorithms and coins may be hot-updated with versions and configuration changes. The following list shows the common support scope in the current documentation:
 
 <p align="center">
   <img src="image/icon-btc.png" alt="BTC" height="28">
@@ -136,9 +136,9 @@ After the installer launches, use the menu prompts to install, update, start, st
 </p>
 
 <details>
-<summary>展开查看算法列表</summary>
+<summary>Expand the algorithm list</summary>
 
-| 算法 | 支持币种 |
+| Algorithm | Supported coins |
 | --- | --- |
 | SHA256 | BTC、BCH、SPACE |
 | ETHASH | ETC、ETHW、ETHF、OCTA、ETC+ZIL、ETHW+ZIL、ETHF+ZIL、CLORE、NEURAI、NEOXA、ZIL、CLO、UBQ、EGAZ、ELH、AVS、CAU、PAC、PWR、BTN、DUBX、XPB、REDEV2、RTH、DOGETHER |
@@ -165,9 +165,9 @@ After the installer launches, use the menu prompts to install, update, start, st
 
 </details>
 
-## 社区与支持
+## Community and Support
 
-欢迎通过以下渠道获取更新、交流使用问题或咨询定制版本：
+Use the following channels to get updates, discuss usage questions, or request a custom version:
 
 <p>
     </a>
@@ -185,9 +185,9 @@ After the installer launches, use the menu prompts to install, update, start, st
     </a>
 </p>
 
-## 特别感谢
+## Special Thanks
 
-感谢以下矿池在一定范围内提供技术支持：
+Thanks to the following mining pools for providing technical support within a certain scope:
 
 <table>
   <tr>
@@ -206,47 +206,38 @@ After the installer launches, use the menu prompts to install, update, start, st
   </tr>
 </table>
 
-## 服务协议
+## Service Agreement
 
 > [!CAUTION]
-> TCMinerProxy 受香港法律监管。不同国家或地区的法律要求可能会限制此类产品与服务。使用前请确认您所在地区允许相关数字货币、矿机管理和矿池服务活动。
+> TCMinerProxy regulated by Hong Kong law. Legal requirements in different countries or regions may restrict this type of product and service. Before use, please confirm that digital currency, miner management, and mining pool service activities are allowed in your region.
 
 <details>
-<summary>展开查看服务协议内容</summary>
+<summary>Expand the service agreement content</summary>
 
-<h2>法律合规声明</h2>
+TCMinerproxy is regulated by Hong Kong law. Please note that legal requirements in different countries or regions may restrict this type of product and service.
 
-TCMinerProxy适用香港法律管辖。各国 / 地区法规对数字货币、矿机运维、矿池代理类服务存在差异化管控，使用前请自行核实当地是否允许开展相关业务。
+As a result, this product, its services, and certain features may be unavailable or restricted in certain jurisdictions, regions, or for certain users.
 
-<h2>产品性质说明</h2>
+This product is not a VPN-type product, because it cannot enable access to prohibited content in restricted regions.
 
-本软件不属于 VPN 工具，不具备跨境访问受限网络资源的能力；
+This product is miner and mining farm management software. It does not obtain miner data through improper means. All connected devices must be actively configured by the device owner with a miner connection address, ensuring that users of this program have informed consent.
 
-定位为矿机、矿场运维管理工具，不存在非法窃取矿机数据行为，所有矿机需由设备所有者主动配置连接地址，使用者完全知情。
+You are not on any list of terrorist organizations or terrorist personnel, including those listed in United Nations Security Council resolutions.
 
-<h2>用户准入限制</h2>
+You have not been restricted or prohibited from using this program by administrative or law enforcement agencies in any country or region.
 
-  使用本服务即代表您承诺满足以下全部条件：
+You are not a resident of Cuba, Iran, North Korea, Syria, or any other country or region subject to sanctions imposed by relevant governments or international organizations.
 
-1.本人不在联合国安理会列明的恐怖组织、恐怖人员名单内；
+You are not a resident of any country or region where digital currency-related activities are restricted or prohibited, including but not limited to mainland China.
 
-2.未被各国执法机构限制、禁止使用本软件；
+Your use of the services provided by this program complies with the relevant laws, regulations, and policies of your country or region.
 
-3.非古巴、伊朗、朝鲜、叙利亚及各类国际制裁辖区居民；
+You agree that if your use of the services provided by this program becomes illegal due to the laws, regulations, policies, or any other applicable laws of your country or region, you will independently bear the related legal risks and liabilities, and you unconditionally and irrevocably waive any right to make claims against this program.
 
-4.非法律法规明令禁止数字货币相关业务区域居民（含中国大陆等）；
-
-5.所在地法律法规完全许可您使用本软件全部功能。
-
-<h2>责任划分条款</h2>
-
-1.因使用者所在地区法律、政策限制，导致使用本软件构成违规、违法，全部法律后果、风险由使用者独自承担；
-
-2.使用者自愿无条件、不可撤销放弃向项目方追责、索赔的一切权利；
-
-3.下载、运行本软件即视为完整阅读并同意本合规条款，所有相关法律纠纷责任均归属使用者本人。
+You should understand and comply with local laws and regulations. By using this product, you are deemed to accept the above permissions and restrictions. If legal issues arise from the use of this product, the related responsibility shall be borne by the user.
 
 </details>
+
 
 ## License
 

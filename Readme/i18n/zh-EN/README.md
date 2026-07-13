@@ -185,16 +185,16 @@ Thanks to the following mining pools for providing technical support within a ce
 <table>
   <tr>
     <td align="center" width="160">
-      <img src="image/icon-logo-blue.png" alt="Support logo" width="100">
+      <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-logo-blue.png" alt="Support logo" width="100">
     </td>
     <td align="center" width="160">
-      <img src="image/poolin.svg" alt="Poolin" width="100">
+      <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/poolin.svg" alt="Poolin" width="100">
     </td>
     <td align="center" width="160">
-      <img src="image/hd_logo.png" alt="Support logo" width="100">
+      <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/hd_logo.png" alt="Support logo" width="100">
     </td>
     <td align="center" width="160">
-      <img src="image/antpool.png" alt="AntPool" width="100">
+      <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/antpool.png" alt="AntPool" width="100">
     </td>
   </tr>
 </table>

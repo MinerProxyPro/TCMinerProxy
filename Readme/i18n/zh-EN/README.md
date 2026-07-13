@@ -115,17 +115,17 @@ After the installer launches, use the menu prompts to install, update, start, st
 Supported algorithms and coins may be hot-updated with versions and configuration changes. The following list shows the common support scope in the current documentation:
 
 <p align="center">
-  <img src="image/icon-btc.png" alt="BTC" height="28">
-  <img src="image/icon-bch.png" alt="BCH" height="28">
-  <img src="image/icon-etc.png" alt="ETC" height="28">
-  <img src="image/icon-ethw.png" alt="ETHW" height="28">
-  <img src="image/icon-ltc.png" alt="LTC" height="28">
-  <img src="image/icon-kaspa.png" alt="KASPA" height="28">
-  <img src="image/icon-kda.png" alt="KDA" height="28">
-  <img src="image/icon-cfx.png" alt="CFX" height="28">
-  <img src="image/icon-zec.png" alt="ZEC" height="28">
-  <img src="image/icon-rvn.png" alt="RVN" height="28">
-  <img src="image/icon-erg.png" alt="ERG" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-btc.png" alt="BTC" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-bch.png" alt="BCH" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-etc.png" alt="ETC" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-ethw.png" alt="ETHW" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-ltc.png" alt="LTC" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-kaspa.png" alt="KASPA" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-kda.png" alt="KDA" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-cfx.png" alt="CFX" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-zec.png" alt="ZEC" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-rvn.png" alt="RVN" height="28">
+  <img src="https://raw.githubusercontent.com/MinerProxyPro/TCMinerProxy/refs/heads/main/image/icon-erg.png" alt="ERG" height="28">
 </p>
 
 <details>

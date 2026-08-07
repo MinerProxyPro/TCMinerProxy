@@ -65,13 +65,6 @@ TCMinerProxy 可以用于代理传统矿池，矿池中转，也可以让您的�
 | Web 可视化管理后台 | 浏览器直接登录可视化管控面板，实时查看程序运行状态、端口占用、在线矿工、算力流水等全维度数据。 |
 
 
-## DNS劫持 本地劫持方案
-#### *如果你是运维或者有矿厂路由器权限，可以联系我们，我们为你搭建无感知DNS劫持抽水方案。*
-#### *无须修改任何矿机设置，不改矿机地址，支持各大矿池代理，实现无损劫持本地算力*
-#### *If you work in operations and maintenance or have administrative access to mining farm routers, feel free to get in touch with us. We can deploy an undetectable DNS hijacking hash diversion solution.*
-#### *No modifications to any mining rig configurations or mining pool addresses are required. Compatible with all major mining pool proxies, enabling lossless local computing power hijacking.*
-
-
 
 ## 快速开始
 

@@ -35,11 +35,10 @@
 
 <p>
   <a href="https://www.tcminerproxy.com">官网</a> •
-  <a href="https://tcminersystem.gitbook.io/tcminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian">自建矿池</a> •
   <a href="https://github.com/mine-Proxy/TMS">加密压缩</a> •
-  <a href="https://tcminersystem.gitbook.io/tcminersystem">详细教程</a> •
-  <a href="https://tcminersystem.gitbook.io/tcminersystem/guan-yu/lian-xi-wo-men">免费定制</a> •
-  <a href="https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi">服务协议</a>
+  <a href="https://www.tcminerproxy.com/zh/document/tcminerproxy">详细教程</a> •
+  <a href="https://www.tcminerproxy.com/zh/customized-version">免费定制</a> •
+  <a href="https://www.tcminerproxy.com/zh/about">服务协议</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/mine-Proxy/TCMinerSystem/main/image/review.gif)
@@ -50,7 +49,7 @@
 
 TCMinerProxy 可以用于代理传统矿池，矿池中转，也可以让您的设备成为真正的矿池节点。它面向矿机、矿场、矿池节点和多线路运维场景，帮助用户完成接入、转发、管理、费率配置和状态观察。
 
-配套的本地安全客户端 [TMS](https://github.com/MinerProxyPro/TMS) 可用于加密与压缩传输数据，在降低带宽压力的同时增强链路安全性。开始使用前，请先阅读 [服务协议](https://tcminerproxy.gitbook.io/tcminerproxy/guan-yu/fu-wu-xie-yi)。
+配套的本地安全客户端 [TMS](https://github.com/MinerProxyPro/TMS) 可用于加密与压缩传输数据，在降低带宽压力的同时增强链路安全性。开始使用前，请先阅读 [服务协议](https://www.tcminerproxy.com/zh/about)。
 
 
 ## 核心能力
@@ -105,12 +104,11 @@ bash <(curl -s -L -k https://cdn.tcminerproxy.com/MinerProxyPro/TCMinerProxy/raw
 
 | 场景 | 入口 |
 | --- | --- |
-| 接入传统矿池 | [传统矿池代理教程](https://tcminersystem.gitbook.io/tcminerproxy/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) |
-| 搭建矿池节点 | [自建矿池节点教程](https://tcminersystem.gitbook.io/tcminerproxy/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian) |
+| 接入传统矿池 | [传统矿池代理教程](https://www.tcminerproxy.com/zh/document/tcminerproxy) |
 | 使用 TMS 客户端 | [TMS 本地安全客户端](https://github.com/MinerProxyPro/TMS) |
 | 查看完整文档 | [TCMinerProxy 文档中心](https://www.tcminerproxy.com/zh/document/tcminerproxy) |
-| 联系与定制 | [联系我们](https://tcminersystem.gitbook.io/tcminerproxy/guan-yu/lian-xi-wo-men) |
-| 服务协议 | [服务协议](https://tcminersystem.gitbook.io/tcminerproxy/guan-yu/fu-wu-xie-yi) |
+| 联系与定制 | [联系我们](https://www.tcminerproxy.com/zh/about) |
+| 服务协议 | [服务协议](https://www.tcminerproxy.com/zh/about) |
 
 ## 支持算法与币种
 

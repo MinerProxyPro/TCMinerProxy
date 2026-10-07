@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">TCMinerProxy — Единое управление подключениями.</title>
+  <desc id="desc">Прокси и инструменты управления майнерами и фермами. Прокси пулов, управление соединениями и шифрование TMS.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1625"/><stop offset="1" stop-color="#101E30"/></linearGradient>
+    <linearGradient id="line" x1="760" y1="220" x2="1180" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#223A4B"/><stop offset=".5" stop-color="#5EEAD4"/><stop offset="1" stop-color="#223A4B"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#233248" stroke-opacity=".32"/></pattern>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="720" y="20" width="540" height="280" rx="16" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1278" height="318" rx="23" stroke="#26374C"/>
+  <path d="M56 0H260" stroke="#5EEAD4" stroke-width="3"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif">
+    <circle cx="62" cy="49" r="4" fill="#5EEAD4"/>
+    <text x="78" y="54" fill="#8CA3BA" font-size="13" font-weight="600" letter-spacing="2.6">ИНФРАСТРУКТУРА МАЙНИНГА</text>
+    <text x="56" y="139" fill="#F0F6FC" font-size="68" font-weight="700" letter-spacing="-2.5">TCMinerProxy</text>
+    <text x="58" y="193" fill="#D8E5F1" font-size="26" font-weight="600">Единое управление подключениями.</text>
+    <g transform="translate(0,-86)" font-size="12" font-weight="600" letter-spacing="1.2">
+      <rect x="58" y="326" width="114" height="32" rx="16" fill="#12322F" stroke="#28564F"/><text x="115" y="347" text-anchor="middle" fill="#7EEBD7">STRATUM</text>
+      <rect x="182" y="326" width="148" height="32" rx="16" fill="#162638" stroke="#2B3D53"/><text x="256" y="347" text-anchor="middle" fill="#ADBDD0">WEB CONSOLE</text>
+      <rect x="340" y="326" width="152" height="32" rx="16" fill="#162638" stroke="#2B3D53"/><text x="416" y="347" text-anchor="middle" fill="#ADBDD0">MULTI-PLATFORM</text>
+    </g>
+    <g transform="translate(150,-20) scale(.8)">
+    <g stroke="url(#line)" stroke-width="1.5"><path d="M826 126H874L930 182M826 220H916M826 314H874L930 258"/><path d="M1030 182L1086 126H1134M1044 220H1134M1030 258L1086 314H1134"/></g>
+    <circle cx="980" cy="220" r="128" stroke="#2A4657" stroke-dasharray="3 9"/>
+    <circle cx="980" cy="220" r="96" fill="#0E2530" stroke="#254B52"/>
+    <path d="M980 150L1041 185V255L980 290L919 255V185Z" fill="#143B40" stroke="#5EEAD4" stroke-width="2"/>
+    <path d="M980 170L1023 195V245L980 270L937 245V195Z" stroke="#38746F"/>
+    <path d="M960 207H1000M980 207V244" stroke="#7FF4DC" stroke-width="6" stroke-linecap="round"/>
+    <g fill="#122437" stroke="#3D5B70"><rect x="782" y="105" width="44" height="42" rx="10"/><rect x="782" y="199" width="44" height="42" rx="10"/><rect x="782" y="293" width="44" height="42" rx="10"/><rect x="1134" y="105" width="44" height="42" rx="10"/><rect x="1134" y="199" width="44" height="42" rx="10"/><rect x="1134" y="293" width="44" height="42" rx="10"/></g>
+    <g stroke="#9BBACC" stroke-width="2" stroke-linecap="round"><path d="M795 120H813M795 132H806M795 214H813M795 226H806M795 308H813M795 320H806"/><path d="M1147 120H1165M1147 132H1158M1147 214H1165M1147 226H1158M1147 308H1165M1147 320H1158"/></g>
+    <g fill="#5EEAD4"><circle cx="874" cy="126" r="3"/><circle cx="866" cy="220" r="3"/><circle cx="1086" cy="314" r="3"/><circle cx="1094" cy="220" r="3"/></g>
+    <text x="980" y="389" text-anchor="middle" fill="#6C8A9F" font-size="11" letter-spacing="3">ПОДКЛЮЧЕНИЕ / ПРОКСИ / УПРАВЛЕНИЕ</text>
+    </g>
+  </g>
+</svg>

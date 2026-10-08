@@ -8,8 +8,8 @@
 
 <p>
   <strong>简体中文</strong> &nbsp; / &nbsp;
-  <a href="Readme/i18n/zh-EN/README.md">English</a> &nbsp; / &nbsp;
-  <a href="Readme/i18n/zh-RU/README.md">Русский</a>
+  <a href="Readme/i18n/zh-EN">English</a> &nbsp; / &nbsp;
+  <a href="Readme/i18n/zh-RU">Русский</a>
 </p>
 
 <p>
